@@ -41,7 +41,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
+<!--   - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -99,7 +99,7 @@ sections:
       view: card
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [0, 0, 0, 0] -->
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
