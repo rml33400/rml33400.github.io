@@ -54,21 +54,21 @@ interests:
   - AI Ethics
 
 education:
-  - area: Bac XXX
+  - area: Baccalauréat général
     institution: Lycée Brémontier
     icon: ""
-    date_start: 2024
-    date_end: 2021
+    date_start: 2021-09-01
+    date_end: 2024-06-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+   # button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: Premiere année de licence AES
+    institution: Université de Bordeaux
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2024-09-01
+    date_end: 2025-05-31
     summary: |
       GPA: 4.0/4.0
 
