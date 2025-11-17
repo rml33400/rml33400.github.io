@@ -153,13 +153,13 @@ awards:
     icon: hero/academic-cap
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
-  - title: Création activité Nettoyage de voiture
+  - title: Création d'une activité nettoyage de voitures
     url: https://www.nsf.gov/
     date: '2021-06-15'
     awarder: Activité personnelle
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
+      xxxxxxxxxxxxxxxxxxxnt.
   - title: Coupe foot / niveau???
     url: https://www.stanford.edu/
     date: '2019-06-30'
