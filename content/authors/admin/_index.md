@@ -74,7 +74,7 @@ education:
 
       Specialized in machine learning and robotics.
   - area: Brevet des Collèges
-    institution: Co
+    institution: Collège Aliénor
     icon: ""
     date_start: 2018-09-01
     date_end: 2021-05-31
