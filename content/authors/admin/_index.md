@@ -27,7 +27,7 @@ role: Etudiant Tech de Co
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tech de Co Bordeaux
+  - name: IUT de Bordeaux
     url: https://www.techdecobordeaux.fr/
 
 # Social network links
