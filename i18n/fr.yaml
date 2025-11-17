@@ -150,11 +150,14 @@
 - id: interests
   translation: Intérêts
   
-- id: Professional_Summary
+- id: Professional Summary
   translation: A propos de moi
 
 - id: education
   translation: Éducation
+  
+- id: Awards
+  translation: Diplômes
 
 - id: user_profile_latest
   translation: Récents
