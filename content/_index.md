@@ -39,10 +39,10 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
-<!--     design:
+    design:
       columns: '1'
    - block: collection
-    id: papers
+    id: 
     content:
       title: Featured Publications
       filters:
@@ -99,7 +99,7 @@ sections:
       view: card
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0] -->
+        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
