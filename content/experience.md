@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: true
   - block: resume-awards
     content:
-      title: Diplômes et réalisations
+      title: Diplômes & Réalisations
       username: admin
   - block: resume-languages
     content:
