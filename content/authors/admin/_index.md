@@ -147,21 +147,21 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Baccalauréat
-    url: https://neurips.cc/
+   # url: https://neurips.cc/
     date: '2022-12-01'
-    awarder: NeurIPS
+    awarder: Spécialité SES
     icon: hero/academic-cap
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
   - title: Création d'une activité nettoyage de voitures
-    url: https://www.nsf.gov/
+  #  url: https://www.nsf.gov/
     date: '2021-06-15'
     awarder: Activité personnelle
     icon: hero/currency-dollar
     summary: |
       xxxxxxxxxxxxxxxxxxxnt.
   - title: Coupe foot / niveau???
-    url: https://www.stanford.edu/
+    #url: https://www.stanford.edu/
     date: '2019-06-30'
     awarder: Union Saint Jean
     icon: hero/trophy 
