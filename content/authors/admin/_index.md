@@ -81,7 +81,7 @@ education:
     summary: |
       Mention: B
 
-      #Minored in Mathematics. President of AI Club.
+      
 
 work:
   - position: Employé polyvalent 
