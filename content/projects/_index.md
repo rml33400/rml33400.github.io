@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Mes Projets
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+  #    text: xx
       filters:
         folders:
           - projects
