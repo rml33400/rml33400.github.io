@@ -1,6 +1,6 @@
 ---
 title: pandas
-date: 2024-06-26
+#date: 2024-06-26
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
