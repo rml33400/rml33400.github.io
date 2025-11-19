@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Website name
+# Website name_
 title: Portfolio RML
 # Website URL
 baseURL: 'https://bdx33290.github.io/'
