@@ -1,5 +1,5 @@
 ---
-title: Stage International 
+title: Pandas
 date: 2026-06-26
 links:
   - type: site
