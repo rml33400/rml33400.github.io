@@ -38,7 +38,7 @@ sections:
 
         Ce stage se déroulera du 5 au 24 janvier 2026. Motivé par la découverte de ce monde, j’ai hâte de m’investir pleinement dans votre entreptise. 
 
-        Please reach out to collaborate 😃
+        
     design:
       columns: '1'
   # - block: collection
