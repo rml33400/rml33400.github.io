@@ -169,4 +169,4 @@ awards:
       activité sportive.
 ---
 
-Romain Mazoyer--Lescouet is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Romain Mazoyer--Lescouet, 19 ans, étudiant à L’IUT Techniques de Commercialisation Bordeaux-bastide. Je suis à la recherche d’un stage en entreprise non rémunéré, lié à la vente, au marketing ou à la communication dans le cadre de ma formation. Ce stage se déroulera du 5 au 24 janvier 2026. Motivé par la découverte de ce monde, j’ai hâte de m’investir pleinement dans votre entreptise. 
