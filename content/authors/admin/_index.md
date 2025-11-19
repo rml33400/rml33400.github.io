@@ -169,4 +169,5 @@ awards:
       activité sportive.
 ---
 
-Romain Mazoyer-Lescouet, 19 ans, étudiant à L’IUT Techniques de Commercialisation Bordeaux-bastide. Je suis à la recherche d’un stage en entreprise non rémunéré, lié à la vente, au marketing ou à la communication dans le cadre de ma formation 
+Romain Mazoyer-Lescouet, 19 ans, étudiant à L’IUT Techniques de Commercialisation Bordeaux-bastide.
+Je suis à la recherche d’un stage en entreprise. 
