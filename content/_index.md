@@ -34,9 +34,9 @@ sections:
       title: '📚 Ma recherche'
       subtitle: ''
       text: |-
-        Je recherche .... your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Je suis à la recherche d’un stage en entreprise non rémunéré, lié à la vente, au marketing ou à la communication dans le cadre de ma formation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Ce stage se déroulera du 5 au 24 janvier 2026. Motivé par la découverte de ce monde, j’ai hâte de m’investir pleinement dans votre entreptise. 
 
         Please reach out to collaborate 😃
     design:
