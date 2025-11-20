@@ -117,7 +117,7 @@ skills:
       - name: Empathie
         description: ''
         percent: 80
-        icon: people-svgrepo-com
+        icon: cloud
   - name: Loisirs
     color: '#eeac02'
     color_border: '#f0bf23'
