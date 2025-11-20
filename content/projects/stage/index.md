@@ -1,6 +1,6 @@
 ---
 title: Stage international
-date: 2025-06-01
+date: 2025-06-10
 links:
   - type: site
     url: 
