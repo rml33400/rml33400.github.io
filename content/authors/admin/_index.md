@@ -72,7 +72,7 @@ education:
     summary: |
       Mention: AB
 
-      Spécialité SES.
+      Spécialité SES
   - area: Brevet des Collèges
     institution: Collège Aliénor d'Aquitaine
     icon: ""
