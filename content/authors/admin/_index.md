@@ -41,7 +41,7 @@ profiles:
   #- icon: brands/github
    # url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/romain-mll/
   - icon: academicons/google-scholar
     url: https://www.techdecobordeaux.fr/
   #- icon: academicons/orcid
@@ -60,7 +60,7 @@ education:
     date_start: 2024-09-01
     date_end: 2025-05-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Principales matières : économie, droit et ressources humaines
    # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
@@ -72,11 +72,11 @@ education:
     summary: |
       Mention: AB
 
-      Spécialité SES
+      Spécialité SES & SVT
   - area: Brevet des Collèges
     institution: Collège Aliénor d'Aquitaine
     icon: ""
-    date_start: 2018-09-01
+    date_start: 2017-09-01
     date_end: 2021-05-31
     summary: |
       Mention: B
@@ -91,7 +91,7 @@ work:
     date_start: 2024-01-02
     date_end: ''
     summary: |2-
-      Mise en rayon. Caisse. Boulangerie et coupe boucherie.
+      Mise en rayon, caisse, boulangerie et coupe boucherie
   - position: Assistant Commercial 
     company_name: CORHOFI
     company_url: 'https://www.corhofi.com/'
@@ -99,47 +99,47 @@ work:
     date_start: 2025-06-01
     date_end: 2025-06-30
     summary: |
-      Gestion relation client, Démarchage et Relance téléphonique, Suivi administratif.
+      Gestion relation client, prospection, relance téléphonique et suivi administratif.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: hard & soft Skills
     items:
-      - name: Python & PyTorch
+      - name: Logiciels bureautiques
         description: ''
-        percent: 95
+        percent: 70
         icon: code-bracket
-      - name: Machine Learning
+      - name: Travail d'équipe
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Empathie
         description: ''
-        percent: 85
+        percent: 80
         icon: cloud
-  - name: Hobbies
+  - name: Loisirs
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Sports
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Voyages
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Lecture
         description: ''
-        percent: 70
+        percent: 60
         icon: book-open
 
 languages:
-  - name: English
-    percent: 80
-  - name: Spanish
-    percent: 50
+  - name: Anglais
+    percent: 70
+  - name: Espagnol
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
