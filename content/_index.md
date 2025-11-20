@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger CV
-        url: uploads/resume.pdf
+        url: uploads/CV_RML.pdf
       headings:
         about: ''
         education: ''
