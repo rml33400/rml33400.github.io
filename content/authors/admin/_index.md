@@ -152,7 +152,7 @@ awards:
     awarder: Spécialité SES
     icon: hero/academic-cap
     summary: |
-     # Awarded for groundbreaking work on efficient training of large models.
+     
   - title: Création d'une activité nettoyage de voitures
   #  url: https://www.nsf.gov/
     date: '2024-06-15'
@@ -160,7 +160,7 @@ awards:
     icon: hero/currency-dollar
     summary: |
     #  xxxxxxxxxxxxxxxxxxxnt.
-  - title: Organisation d'un tournoi international de football 
+  - title: Organisation d'un tournoi international de football (USJ CUP)
     #url: https://www.stanford.edu/
     date: '2021-05-10'
     awarder: Union Saint Jean
