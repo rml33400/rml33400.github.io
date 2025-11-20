@@ -152,7 +152,7 @@ awards:
     awarder: Spécialité SES
     icon: hero/academic-cap
     summary: |
-     
+     Spécialité complémentaire : SVT
   - title: Création d'une activité nettoyage de voitures
   #  url: https://www.nsf.gov/
     date: '2024-06-15'
