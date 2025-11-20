@@ -104,7 +104,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: hard & soft Skills
+  - name: Hard & Soft Skills
     items:
       - name: Logiciels bureautiques
         description: ''
@@ -148,25 +148,25 @@ languages:
 awards:
   - title: Baccalauréat Général
    # url: https://neurips.cc/
-    date: '2022-12-01'
+    date: '2024-06-01'
     awarder: Spécialité SES
     icon: hero/academic-cap
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+     # Awarded for groundbreaking work on efficient training of large models.
   - title: Création d'une activité nettoyage de voitures
   #  url: https://www.nsf.gov/
-    date: '2021-06-15'
+    date: '2024-06-15'
     awarder: Activité personnelle
     icon: hero/currency-dollar
     summary: |
-      xxxxxxxxxxxxxxxxxxxnt.
-  - title: Coupe foot / niveau???
+    #  xxxxxxxxxxxxxxxxxxxnt.
+  - title: Organisation d'un tournoi international de football 
     #url: https://www.stanford.edu/
-    date: '2019-06-30'
+    date: '2021-05-10'
     awarder: Union Saint Jean
     icon: hero/trophy 
     summary: |
-      activité sportive.
+      Tournoi réunissant 288 équipes et 5000 personnes
 ---
 
 Romain Mazoyer-Lescouet, 19 ans, étudiant à L’IUT Techniques de Commercialisation Bordeaux-bastide.
