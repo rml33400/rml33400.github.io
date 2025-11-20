@@ -1,6 +1,6 @@
 ---
 title: Action caritative
-date: 2025-10-2
+date: 2025-10-21
 links:
   - type: site
     url: 
